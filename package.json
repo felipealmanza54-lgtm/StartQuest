@@ -1,0 +1,21 @@
+{
+  "name": "startquest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipealmanza54-lgtm/StartQuest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/felipealmanza54-lgtm/StartQuest/issues"
+  },
+  "homepage": "https://github.com/felipealmanza54-lgtm/StartQuest#readme"
+}
